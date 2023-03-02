@@ -18,7 +18,7 @@ Letras es una red social que permitirá al usuario postear textos, comentar y co
 
 3: Interactuar con cada uno de los post por medio de tres botones principales: comentar, repost, u enviar por chat.
 
-4: En la primera pantalla (activity)  contará con una barra flotante compuesta por cuatro botones, el primer apartado para el perfil, el segundo botón para las notificaciones, el tercero para la mensajería y el cuarto para las configuraciones.
+4: En la primera pantalla (activity)  contará con una barra flotante compuesta por cuatro botones, el primer apartado para el perfil, el segundo botón para las notificaciones, el tercero para la mensajería y el cuarto para las configuraciones, agregados a esto un boton de busqueda para los perfiles.
 
 5: De manera flotante en la primera pantalla de post se contará con un botón flotante al extremo derecho inferior para realizar post.
 
